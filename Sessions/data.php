@@ -19,6 +19,10 @@ session_start();
     echo "Favorite colour: ".$_SESSION["favanimal"]."<br>";
 
     ?>
-    
+
+    <br><br>
+
+    <a href="logout.php">logout</a>
+
 </body>
 </html>
